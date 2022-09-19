@@ -41,7 +41,9 @@ The profile of the teacher            |  The page to create a new exercise
 <img src="https://github.com/Gauerdia/Calculibri/blob/master/assets/screenshots/profile_teacher_1.png?raw=true" width="300" height="680">  |  <img src="https://github.com/Gauerdia/Calculibri/blob/master/assets/screenshots/exercise_1.png?raw=true" width="300" height="680">
 
 The profile of the student         |  The statistics about a class
+:-------------------------:|:-------------------------:
 <img src="https://github.com/Gauerdia/Calculibri/blob/master/assets/screenshots/student_1.png?raw=true" width="300" height="680">  |  <img src="https://github.com/Gauerdia/Calculibri/blob/master/assets/screenshots/statistics_1.png?raw=true" width="300" height="680">
 
 The messaging functionality         |  ...
+:-------------------------:|:-------------------------:
 <img src="https://github.com/Gauerdia/Calculibri/blob/master/assets/screenshots/messages_1.png?raw=true" width="300" height="680">  |  
